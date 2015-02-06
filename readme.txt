@@ -3,7 +3,7 @@ Contributors: Craig Ralston
 Tags: jquery, sketch, javascript, canvas
 Requires at least: 3.9
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: trunk
 
 This plugin installs sketch.js and required jQuery plugins to your installation.
 == Description ==
